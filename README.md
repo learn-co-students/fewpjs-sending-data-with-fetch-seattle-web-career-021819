@@ -155,6 +155,10 @@ That's it!
 In this lab, you need to satisfy the tests that will make sure your `fetch()`
 skills are ready to go.
 
+This lab refers to an API endpoint at `guestbook.example.com`. This is not a real
+website. Instead the tests have configured a mocked version of `fetch()` that will
+return a response for you. Run the tests to see it in action.
+
 ### Test 1
 
 You need to write a `fetch()` requests that sends your first name as
